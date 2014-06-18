@@ -22,7 +22,7 @@ use \Guzzle\Http\Exception\CurlException;
 /**
  * Features context.
  */
-class W3C_Validation_Context extends \EssentialDots\MinkContext\GeneralRawMinkContext {
+class W3CValidationContext extends \EssentialDots\Weasel\GeneralRawMinkContext {
 
 	/**
 	 * @var array;
