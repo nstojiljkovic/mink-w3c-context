@@ -1,2 +1,4 @@
-mink-w3c-context
-================
+W3C Validation Context for Mink
+=====================
+
+Documentation pending.
